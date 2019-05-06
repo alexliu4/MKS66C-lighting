@@ -49,3 +49,7 @@ torus
 display
 clear
 pop
+
+display
+save
+shape.png
